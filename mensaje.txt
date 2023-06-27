@@ -1,5 +1,5 @@
-hola mundo 
-adios mundo 
+hola mundo cruel
+adios mundo cruel
 
 lines 23
 linea43
